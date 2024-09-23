@@ -12,6 +12,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Добро пожаловать в калькулятор\n");
+        System.out.println("Добро пожаловать в калькулятор\n");
+        System.out.println("Добро пожаловать в калькулятор\n");
 
         while (isYouNeedMore) {
 
