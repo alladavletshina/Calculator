@@ -62,7 +62,7 @@ public class Main {
                 result = number_one * number_two;
                 break;
             default:
-                System.out.println("Недопустимая опeрация");
+                System.out.println("Недопустимая опeрация111");
         }
         return result;
     }
